@@ -130,8 +130,6 @@ export default {
             .catch((error) => {
                 console.log(error);
             })
-
-            // horarios buscar por origen, fecha, destino
         },
     },
     created() {
